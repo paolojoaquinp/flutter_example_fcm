@@ -12,7 +12,7 @@ flutter pub get
 
 ## 2. Configurar El proyecto del backend 
 Obtener el backend en:
-https://github.com/paolojoaquinp/back_fcm/security/secret-scanning/unblock-secret/2h3zrfX61Bd6nEylPJ6qcK3gS5b
+https://github.com/paolojoaquinp/back_fcm/
 
 y seguir instrucciones del readme.md para ejecutarlo. 
 
