@@ -42,3 +42,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+**/app/google-services.json
+
+
+# IOs related
+**/ios/Runner/GoogleService-Info.plist
+**/ios/Pods/
+**/ios/Podfile.lock
